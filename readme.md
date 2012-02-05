@@ -1,7 +1,7 @@
 # .vim dotfiles
-A lightweight, Rails-specific Vim config inspired by [janus](https://github.com/carlhuda/janus). Scrolling and pane switching are *maximumfast*.
+A lightweight, Rails-specific Vim config inspired by [janus](https://github.com/carlhuda/janus). All the plugins and configuration options that janus installs seems to make Vim perform like a dog; scrolling and pane switching in particular are laggy. With this config, scrolling and pane switching are *maximumfast*.
 
-To install, just create a symbolic link in the home directory to `.vimrc`.
+To install, just check this projet out into `~/.vim` and create a symlink in your home directory to `.vim/.vimrc`.
 
 ## What it adds to Vim
 * Defaults to the [`molokai`](http://www.vim.org/scripts/script.php?script_id=2340) color theme
