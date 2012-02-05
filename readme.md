@@ -7,7 +7,7 @@
 * Makes sure split panes are equally divided
 * Turns off saving backup files (super annoying!)
 * Replace tabs with two spaces
-* Adds CtrlP for super-quick directory searching
-  * Ignore .git, public/images/, vendor/, tmp/, log/, .css
-* Remaps `Ctrl-h/j/k/l` to navigate between panels using vim's movement keys
+* Adds [CtrlP](https://github.com/kien/ctrlp.vim) for super-quick directory searching
+  * Ignore `.git`, `public/images/`, `vendor/`, `tmp/`, `log/`, `*.css`
+* Remaps `ctrl-h/j/k/l` to navigate between panels using vim's movement keys
 * Highlight trailing whitespace with periods
