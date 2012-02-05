@@ -1,6 +1,7 @@
 " Some theming stuff
 color molokai
 set guifont=Inconsolata:h14
+set background=dark
 
 " Get rid of the various GUI
 if has("gui_running")
@@ -8,11 +9,13 @@ if has("gui_running")
   set guioptions-=r
   set guioptions-=L
   set guioptions-=T
-  map <C-l> <C-w>l
-  map <C-h> <C-w>h
-  map <C-j> <C-w>j
-  map <C-k> <C-w>k
 endif
+
+" Map vim movement keys to pane switching
+map <C-l> <C-w>l
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
 
 " Show line numbers
 set nu
