@@ -1,3 +1,5 @@
+call pathogen#infect()
+
 " Some theming stuff
 color molokai
 set guifont=Inconsolata:h14
