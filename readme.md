@@ -13,7 +13,7 @@ To install, just check this project out into `~/.vim` and create a symlink in yo
 * Replace tabs with two spaces
 * Maps `ctrl-h/j/k/l` to navigate between panels using Vim's movement keys
 * Highlight trailing whitespace with periods
-* Added the [rails.vim](https://github.com/tpope/vim-rails) plugin for extra syntax highlighting and commands
+* Adds the [rails.vim](https://github.com/tpope/vim-rails) plugin for extra syntax highlighting and commands
 * Adds [CtrlP](https://github.com/kien/ctrlp.vim) for super-quick directory searching
   * Ignore `.git`, `public/images/`, `vendor/`, `tmp/`, `log/`, `*.css` to make it even
     faster
