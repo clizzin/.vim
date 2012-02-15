@@ -20,3 +20,4 @@ To install, just check this project out into `~/.vim` and create a symlink in yo
 * Adds [fugitive](https://github.com/tpope/vim-fugitive) for better Git integration
 * Adds [EasyMotion](https://github.com/Lokaltog/vim-easymotion) for hotness cursor
   movement
+* Adds [vim-less](https://github.com/groenewege/vim-less) for LESS syntax highlighting
