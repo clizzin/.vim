@@ -7,7 +7,7 @@ let g:indent_guides_enable_on_vim_startup = 1
 
 " Some theming stuff
 color molokai
-set guifont=Inconsolata:h14
+set guifont=Inconsolata:h16
 set background=dark
 
 " Get rid of the various GUI
