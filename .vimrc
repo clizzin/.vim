@@ -71,3 +71,9 @@ set listchars=tab:>.,trail:.,extends:#,nbsp:. " Highlight problematic whitespace
 nnoremap j gj
 nnoremap k gk
 set pastetoggle=<F12>          " pastetoggle (sane indentation on pastes)
+
+set wrap
+set linebreak
+set nolist
+set textwidth=0
+set wrapmargin=0
