@@ -1,7 +1,7 @@
 # My Vim Config
 A lightweight, Rails-specific Vim config inspired by [**janus**](https://github.com/carlhuda/janus). The plugins and configuration options that **janus** uses seems to make Vim perform like a dog; scrolling and pane switching in particular are laggy. With this config, scrolling and pane switching are *maximumfast*.
 
-To install, just check this project out into `~/.vim` and create a symlink in your home directory to `~/.vim/.vimrc`.
+To install, just check this project out into `~/.vim` and create a symlink in your home directory to `~/.vim/.vimrc`. Plugins are set up in `bundle/` as Git submodules, so type `git submodule init` and `git submodule update` to clone the submodules.
 
 ## How it customizes Vim
 * Defaults to the [`molokai`](http://www.vim.org/scripts/script.php?script_id=2340) color theme
