@@ -47,6 +47,9 @@ set expandtab
 set smartindent
 filetype indent plugin on
 
+" Turn on omnicomplete
+set ofu=syntaxcomplete#Complete
+
 " Change the leader character
 let mapleader = ","
 
