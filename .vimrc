@@ -43,6 +43,9 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 
+map H ^
+map L $
+
 " Smart indentation behavior
 set smartindent
 filetype indent plugin on
