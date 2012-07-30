@@ -2,16 +2,16 @@ call pathogen#infect()
 
 " Set indent guides
 set ts=2 sw=2 noet
-let g:indent_guides_start_level = 2
-let g:indent_guides_enable_on_vim_startup = 1
 
 " Some theming stuff
-color molokai
-set guifont=Inconsolata:h16
-set background=dark
+syntax on
+colorscheme molokai
 
 " Get rid of the various GUI
 if has("gui_running")
+  let g:indent_guides_start_level = 2
+  let g:indent_guides_enable_on_vim_startup = 1
+  set guifont=Inconsolata:h16
   set guioptions=egmt
   set guioptions-=r
   set guioptions-=L
