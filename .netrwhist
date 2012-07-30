@@ -1,10 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/Users/horace/Documents/airbnb/app/assets/coffeescripts/views/base'
-let g:netrw_dirhist_2='/Users/horace/Documents/airbnb'
-let g:netrw_dirhist_3='/Users/horace/Documents/airbnb/app/assets'
-let g:netrw_dirhist_4='/Users/horace/Documents/airbnb'
-let g:netrw_dirhist_5='/Users/horace/Documents/oxygen'
-let g:netrw_dirhist_6='/Users/horace/Documents/airbnb'
-let g:netrw_dirhist_7='/Users/horace/Documents/airbnb/app'
-let g:netrw_dirhist_8='/Users/horace/Documents/oxygen'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/horace/Documents/pictos-font-generator'
+let g:netrw_dirhist_2='/Users/horace/Documents/icon-font-generator'
+let g:netrw_dirhist_3='/Users/horace/Documents/oxygen'
+let g:netrw_dirhist_4='/Users/horace/Documents/hubot'
+let g:netrw_dirhist_5='/Users/horace/Documents/hubot/scripts'
