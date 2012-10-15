@@ -3,6 +3,8 @@ call pathogen#infect()
 " Set indent guides
 set ts=2 sw=2 noet
 
+set t_Co=256
+
 " Some theming stuff
 syntax on
 colorscheme molokai
