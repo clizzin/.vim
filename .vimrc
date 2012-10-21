@@ -60,7 +60,6 @@ let mapleader = ","
 
 " Set the types of files editable by vim
 set wig+=*/.git/*,*/.hg/*,*/.svn/*,*/public/images/*
-let g:ctrlp_custom_ignore = '\.git$\|\.hg$\|\.svn$\|^public\/images\|^vendor\|^tmp\|^log\|\.css$'
 
 set incsearch         " find as you type search
 set hlsearch          " highlight search terms
@@ -85,3 +84,5 @@ set linebreak
 set nolist
 set textwidth=0
 set wrapmargin=0
+
+
