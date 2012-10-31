@@ -1,7 +1,6 @@
 " ctrlp.vim plug-in
 " open files extra files in hidden buffers
 let g:ctrlp_open_multiple_files = '1jr'
-let g:ctrlp_max_files = 10000
 
 " indexing speed up
 if has("unix")
