@@ -87,3 +87,4 @@ set wrapmargin=0
 
 let g:ackprg = 'ag --nogroup --nocolor --column'
 set statusline=%{fugitive#statusline()}
+set laststatus=2
