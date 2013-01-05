@@ -2,6 +2,7 @@ call pathogen#infect()
 
 " Set indent guides
 set ts=2 sw=2 noet
+let g:indent_guides_guide_size = 1
 
 set t_Co=256
 
