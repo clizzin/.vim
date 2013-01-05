@@ -92,3 +92,6 @@ set laststatus=2
 
 " SQL syntax highlighting for Hive query files
 au BufNewFile,BufRead *.hql set filetype=sql
+
+" Highlight the current line
+set cursorline
