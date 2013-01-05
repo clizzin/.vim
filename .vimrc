@@ -89,3 +89,6 @@ set wrapmargin=0
 let g:ackprg = 'ag --nogroup --nocolor --column'
 set statusline=%{fugitive#statusline()}
 set laststatus=2
+
+" SQL syntax highlighting for Hive query files
+au BufNewFile,BufRead *.hql set filetype=sql
