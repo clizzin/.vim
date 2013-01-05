@@ -95,3 +95,6 @@ au BufNewFile,BufRead *.hql set filetype=sql
 
 " Highlight the current line
 set cursorline
+
+" Better keybinding for toggling NERDTree file navigator.
+nmap <D-N> :NERDTreeTabsToggle<CR>
