@@ -33,6 +33,7 @@ switching are *maximumfast*.
 * Syntax highlighting and special commands for languages and frameworks I use
   * Adds the [rails.vim](https://github.com/tpope/vim-rails) plugin
   * Adds the [VimClojure](https://github.com/vim-scripts/VimClojure) plugin
+  * Adds the [vim-markdown](https://github.com/tpope/vim-markdown) plugin
 * Adds [CtrlP](https://github.com/kien/ctrlp.vim) for super-quick directory searching
   * Ignore `.git`, `public/images/`, `vendor/`, `tmp/`, `log/`, `*.css` to make it even faster
 * Adds [fugitive](https://github.com/tpope/vim-fugitive) for better Git integration
