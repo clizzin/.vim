@@ -98,3 +98,6 @@ set cursorline
 
 " Better keybinding for toggling NERDTree file navigator.
 nmap <D-N> :NERDTreeTabsToggle<CR>
+
+" Make Control-B trigger searching of buffers using CtrlP
+nmap <C-B> :CtrlPBuffer<CR>
